@@ -1,0 +1,7 @@
+All global styles will be inside this folder:
+- globals.css
+- scrollbar.css
+- animations.css
+- utilities.css
+- variables.css
+- typography.css
